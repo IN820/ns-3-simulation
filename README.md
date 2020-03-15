@@ -10,3 +10,5 @@ Part 2 is for Poisson Traffic
 Different configuration require some changes to the code, please adjust accordingly
 
 trafficgen.h file is used to create poisson traffic
+
+(Education purposes only, please do not copy without authorization of owner)
